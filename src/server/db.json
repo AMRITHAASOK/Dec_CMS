@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "id": "c1",
+      "name": "Neethu Manohar",
+      "email": "neethu@gmail.com",
+      "company": "ABC company",
+      "phone": "04564564566",
+      "photo": "https://cdn.pixabay.com/photo/2014/04/02/17/07/user-307993_1280.png",
+      "titles": "hr",
+      "groupId": "3"
+    },
+    {
+      "photo": "https://clipground.com/images/anonomous-person-clipart-6.jpg",
+      "id": "c2",
+      "name": "Sunil",
+      "email": "sunil@gmail.com",
+      "phone": "3232323232",
+      "company": "GHI company",
+      "titles": "34",
+      "groupId": "1"
+    },
+    {
+      "id": "56",
+      "name": "Minnu ",
+      "email": "minnu@gmail.com",
+      "company": "luminar",
+      "photo": "https://cdn.pixabay.com/photo/2014/04/02/17/07/user-307993_1280.png",
+      "phone": "456575778",
+      "titles": "hr",
+      "groupId": "3"
+    }
+  ],
+  "group": [
+    {
+      "id": "1",
+      "name": "family"
+    },
+    {
+      "id": "2",
+      "name": "company"
+    },
+    {
+      "id": "3",
+      "name": "friends"
+    }
+  ]
+}
